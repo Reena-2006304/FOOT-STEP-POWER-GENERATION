@@ -1,4 +1,4 @@
-SLA-Based Smart City Complaint Portal
+SLA-Based Smart City Complaint Portal.
 Centralized Web Platform: A unified web application designed for citizens to easily report local civic issues—such as potholes, garbage accumulation, or broken streetlights—directly within their city or area.
 
 The Core Innovation (SLA Timer Module): The system integrates a Service Level Agreement (SLA) timer. When a complaint is filed, the system automatically calculates and assigns a strict resolution deadline (specific Date and Time) based on the category of the issue.
